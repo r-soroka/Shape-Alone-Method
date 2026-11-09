@@ -5,9 +5,9 @@ Throughout my undergrad, I kept starting ambitious solo projects with no real ti
 
 What I learned is that to actually ship something, I need three things:
 
-a clear sense of what the project is worth to me
-a quick way to pitch ideas to myself, so I can brainstorm freely and bet on the good ones when I have time
-a firm time budget, because a project that drags on gets forgotten
+- a clear sense of what the project is worth to me
+- a quick way to pitch ideas to myself, so I can brainstorm freely and bet on the good ones when I have time
+- a firm time budget, because a project that drags on gets forgotten
 
 While researching, I found Shape Up, the method created by Basecamp. It’s built around the problem I kept hitting: work expands to fill whatever time you give it. Instead of asking “how long will this take?”, Shape Up asks “how much time is this worth?” It calls that the project’s appetite. Teams get a fixed cycle with high autonomy and no extensions. If the work isn’t done when the cycle ends, it doesn’t roll into the next one. The team pulls the plug, reshapes the project, and works out why it failed: a rabbit hole, too large a scope, or an impossible task.
 
