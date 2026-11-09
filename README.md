@@ -478,7 +478,7 @@ Sharp edges, half-finished bits, things I'd do next, and anything that confused 
 
 I used an AI assistant (Claude, by Anthropic) to help write and design this document.
 
-**What's mine:** the idea for the method, the original "Why" section, and the decisions that define it, including no fixed cycles, one bet at a time, a 4-week soft ceiling, canceling bets when life gets busy, optional cooldown, and making documentation a requirement.
+**What's mine:** the idea for the method, the actual content, and the decisions that define it, including no fixed cycles, one bet at a time, a 4-week soft ceiling, canceling bets when life gets busy, optional cooldown, and making documentation a requirement.
 
 **What the AI helped with:**
 - Editing my original writing for clarity and grammar
